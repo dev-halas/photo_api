@@ -14,7 +14,7 @@ NODE_ENV = development\
 PORT = 5000\
 MONGO_URI = ****\
 JWT_SECRET_KEY = ****\
-JWT_SECRET_KEY_GUEST = ****\
+JWT_SECRET_KEY_GUEST = ****
 
 EMAIL_HOST= ****\
 EMAIL_PORT= ****\
