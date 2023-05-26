@@ -3,8 +3,8 @@
 
 LINKS TO API DOCS IN POSTMAN/
 
-https://documenter.getpostman.com/view/20850669/2s8YzL4mLr\
-https://documenter.getpostman.com/view/20850669/2s8YmPuhLB\
+https://documenter.getpostman.com/view/20850669/2s8YzL4mLr \
+https://documenter.getpostman.com/view/20850669/2s8YmPuhLB
 
 _______________
 
