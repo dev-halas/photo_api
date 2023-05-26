@@ -8,11 +8,11 @@ https://documenter.getpostman.com/view/20850669/2s8YmPuhLB/
 
 _______________
 
-.ENV File: /
+.ENV File:\
 
-NODE_ENV = development/
-PORT = 5000/
-MONGO_URI = ****/
+NODE_ENV = development\
+PORT = 5000\
+MONGO_URI = ****\
 JWT_SECRET_KEY = ****/
 JWT_SECRET_KEY_GUEST = ****/
 /
